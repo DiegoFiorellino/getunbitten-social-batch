@@ -272,6 +272,15 @@
       "asset": "volume-batch-01/v8-vs-v2.png",
       "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-01/v8-vs-v2.png",
       "caption": "Trying harder relies on willpower every single time, and breaks down exactly when stress is highest. Matching the technique to the actual trigger is built to hold under that same stress."
+    },
+    {
+      "n": 999,
+      "date": "test",
+      "time_cest": "test",
+      "time_utc": "2026-07-15T21:30:46Z",
+      "asset": "launch-final/ad1-not-your-fault.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/launch-final/ad1-not-your-fault.png",
+      "caption": "TEST AUTOMAZIONE - post di verifica, verra rimosso a breve."
     }
   ]
 }
