@@ -1,5 +1,5 @@
 {
-  "_note": "Calendario v3 ricalcolato il 2026-07-19 dopo invalidazione token Meta del 16/7 (tutti i post FB schedulati persi, IG fermi): 28 post rimanenti riprogrammati a 6/giorno, 19-24 luglio. Post 23+24 gia usciti. Orari UTC.",
+  "_note": "Calendario v3 ricalcolato il 2026-07-19 dopo invalidazione token Meta del 16/7 (tutti i post FB schedulati persi, IG fermi): 28 post rimanenti riprogrammati a 6/giorno, 19-24 luglio. Post 23+24 gia usciti. Orari UTC. || Batch 2 aggiunto il 19/7: post 31-40 (25-26 luglio), asset in volume-batch-02/.",
   "page_id": "1257196587471623",
   "ig_business_account_id": "17841446229683028",
   "posts": [
@@ -272,6 +272,96 @@
       "asset": "volume-batch-01/v8-vs-v2.png",
       "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-01/v8-vs-v2.png",
       "caption": "Trying harder relies on willpower every single time, and breaks down exactly when stress is highest. Matching the technique to the actual trigger is built to hold under that same stress."
+    },
+    {
+      "n": 31,
+      "asset": "volume-batch-02/b1-how-it-works.png",
+      "caption": "Three steps, in plain language: find which of the four patterns runs the habit, get the one technique built for that pattern, then spend 30 structured days retraining it. No guesswork at any point.",
+      "date": "2026-07-25",
+      "time_utc": "2026-07-25T07:30:00Z",
+      "time_cest": "09:30",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b1-how-it-works.png"
+    },
+    {
+      "n": 32,
+      "asset": "volume-batch-02/b2-direct-question.png",
+      "caption": "It rarely starts as a decision. One day the sleeves stay down, the next photo gets declined, and somewhere along the way it all starts to feel normal. Noticing that is usually step zero.",
+      "date": "2026-07-25",
+      "time_utc": "2026-07-25T10:30:00Z",
+      "time_cest": "12:30",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b2-direct-question.png"
+    },
+    {
+      "n": 33,
+      "asset": "volume-batch-02/b3-listicle-urge.png",
+      "caption": "Traffic. Meetings. Scrolling. TV. The minutes before sleep. Five ordinary moments, one identical pattern behind them. Once the pattern has a name, it can be interrupted.",
+      "date": "2026-07-25",
+      "time_utc": "2026-07-25T12:30:00Z",
+      "time_cest": "14:30",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b3-listicle-urge.png"
+    },
+    {
+      "n": 34,
+      "asset": "volume-batch-02/b4-competing-response.png",
+      "caption": "Technique spotlight: the Competing Response. A trained hand action that is physically incompatible with biting, built to fire before the habit does. The method matched to the anxious bite type, one of four inside the Protocol.",
+      "date": "2026-07-25",
+      "time_utc": "2026-07-25T14:30:00Z",
+      "time_cest": "16:30",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b4-competing-response.png"
+    },
+    {
+      "n": 35,
+      "asset": "volume-batch-02/b5-pattern-interrupt.png",
+      "caption": "Years of trying harder usually prove one thing: effort was never the missing piece. A structure that retrains the loop is. That's the entire difference between another attempt and a last one.",
+      "date": "2026-07-25",
+      "time_utc": "2026-07-25T17:00:00Z",
+      "time_cest": "19:00",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b5-pattern-interrupt.png"
+    },
+    {
+      "n": 36,
+      "asset": "volume-batch-02/b6-tracker.png",
+      "caption": "Day 12 looks like this: eleven squares filled, nineteen to go, all on one page. Progress that can be seen tends to be progress that continues.",
+      "date": "2026-07-25",
+      "time_utc": "2026-07-25T19:30:00Z",
+      "time_cest": "21:30",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b6-tracker.png"
+    },
+    {
+      "n": 37,
+      "asset": "volume-batch-02/b7-myth-clinical.png",
+      "caption": "Research has a name for it: body-focused repetitive behavior. Not a character flaw, not a discipline problem. A trainable loop, studied in JAMA Dermatology and clinical psychology for decades. Named right, it can be treated right.",
+      "date": "2026-07-26",
+      "time_utc": "2026-07-26T07:30:00Z",
+      "time_cest": "09:30",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b7-myth-clinical.png"
+    },
+    {
+      "n": 38,
+      "asset": "volume-batch-02/b8-color-block.png",
+      "caption": "The whole promise in nine words: 30 days, one matched technique, no willpower required. The structure carries the effort so motivation doesn't have to.",
+      "date": "2026-07-26",
+      "time_utc": "2026-07-26T10:30:00Z",
+      "time_cest": "12:30",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b8-color-block.png"
+    },
+    {
+      "n": 39,
+      "asset": "volume-batch-02/b9-faq-20years.png",
+      "caption": "The most common question, answered honestly: the length of the habit isn't the obstacle. The loop running it today is, and loops respond to retraining at any age.",
+      "date": "2026-07-26",
+      "time_utc": "2026-07-26T14:30:00Z",
+      "time_cest": "16:30",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b9-faq-20years.png"
+    },
+    {
+      "n": 40,
+      "asset": "volume-batch-02/b10-endpoint.png",
+      "caption": "Habit apps are built for retention: streaks, reminders, monthly renewals. A protocol is built for the opposite reason, to be finished. One guide, one ending.",
+      "date": "2026-07-26",
+      "time_utc": "2026-07-26T19:30:00Z",
+      "time_cest": "21:30",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b10-endpoint.png"
     }
   ]
 }
