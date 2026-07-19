@@ -11,7 +11,15 @@ if (!IG_ACCOUNT_ID || !ACCESS_TOKEN) {
 const CAL = JSON.parse(fs.readFileSync(path.join(__dirname, 'calendar.json'), 'utf8'));
 const PUBLISHED_FILE = path.join(__dirname, 'published.json');
 
-const MAX_LATE_MS = 3 * 60 * 60 * 1000; // se il runner ha saltato un giro, salta comunque il post oltre 3h di ritardo
+const MAX_LATE_MS = 4 * 60 * 60 * 1000; // se il runner ha saltato un giro, salta comunque il post oltre 4h di ritardo (il cron GitHub puo ritardare 1-2h)
+
+let tokenDead = false;
+function checkTokenError(json) {
+  // OAuthException code 190 = token invalidato: fallire il run cosi GitHub manda email di allarme
+  if (json && json.error && (json.error.code === 190 || json.error.type === 'OAuthException')) {
+    tokenDead = true;
+  }
+}
 
 function loadPublished() {
   if (!fs.existsSync(PUBLISHED_FILE)) return [];
@@ -34,6 +42,7 @@ async function publishPost(post) {
   });
   const createJson = await createResp.json();
   if (!createJson.id) {
+    checkTokenError(createJson);
     throw new Error(`media create fallita: ${JSON.stringify(createJson)}`);
   }
   await new Promise((r) => setTimeout(r, 5000));
@@ -81,5 +90,9 @@ async function publishPost(post) {
 
   if (!didWork) {
     console.log('Nessun post da pubblicare in questo momento.');
+  }
+  if (tokenDead) {
+    console.error('TOKEN META INVALIDATO (OAuthException): rigenerare il token e aggiornare il secret IG_ACCESS_TOKEN. Vedi handoff.md del progetto.');
+    process.exit(1);
   }
 })();
