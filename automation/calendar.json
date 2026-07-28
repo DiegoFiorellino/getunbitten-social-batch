@@ -1,5 +1,5 @@
 {
-  "_note": "Calendario v3 ricalcolato il 2026-07-19 dopo invalidazione token Meta del 16/7 (tutti i post FB schedulati persi, IG fermi): 28 post rimanenti riprogrammati a 6/giorno, 19-24 luglio. Post 23+24 gia usciti. Orari UTC. || Batch 2 aggiunto il 19/7: post 31-40 (25-26 luglio), asset in volume-batch-02/.",
+  "_note": "Calendario v3 ricalcolato il 2026-07-19 dopo invalidazione token Meta del 16/7 (tutti i post FB schedulati persi, IG fermi): 28 post rimanenti riprogrammati a 6/giorno, 19-24 luglio. Post 23+24 gia usciti. Orari UTC. || Batch 2 aggiunto il 19/7: post 31-40 (25-26 luglio), asset in volume-batch-02/. || Batch 3 aggiunto il 28/7: post 41-82, ritmo ridotto 3/giorno per 14 giorni (29/7-11/8). Settimana 1 = 21 asset nuovi (volume-batch-03), settimana 2 = 21 asset esistenti riusati con caption 100% nuove.",
   "page_id": "1257196587471623",
   "ig_business_account_id": "17841446229683028",
   "posts": [
@@ -362,6 +362,384 @@
       "time_utc": "2026-07-26T19:30:00Z",
       "time_cest": "21:30",
       "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b10-endpoint.png"
+    },
+    {
+      "n": 41,
+      "date": "2026-07-29",
+      "time_cest": "10:30",
+      "time_utc": "2026-07-29T08:30:00Z",
+      "asset": "volume-batch-03/c1-decoupling.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c1-decoupling.png",
+      "caption": "Fixing one imperfection often creates the urge to fix the next. Decoupling is the technique that breaks that specific chain, built for the perfectionist type."
+    },
+    {
+      "n": 42,
+      "date": "2026-07-29",
+      "time_cest": "15:00",
+      "time_utc": "2026-07-29T13:00:00Z",
+      "asset": "volume-batch-03/c2-sensory-substitution.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c2-sensory-substitution.png",
+      "caption": "Idle hands during a meeting or a scroll session are looking for input. Sensory Substitution gives them something else to reach for first, built for the bored type."
+    },
+    {
+      "n": 43,
+      "date": "2026-07-29",
+      "time_cest": "20:00",
+      "time_utc": "2026-07-29T18:00:00Z",
+      "asset": "volume-batch-03/c3-awareness-training.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c3-awareness-training.png",
+      "caption": "The hardest type to catch is the one with no trigger to name. Awareness Training starts by making an automatic action visible again."
+    },
+    {
+      "n": 44,
+      "date": "2026-07-30",
+      "time_cest": "10:30",
+      "time_utc": "2026-07-30T08:30:00Z",
+      "asset": "volume-batch-03/c4-four-grid.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c4-four-grid.png",
+      "caption": "Anxious, perfectionist, bored, unconscious: four different reasons behind the same habit, and four different fixes. Recognizing the right one usually happens fast."
+    },
+    {
+      "n": 45,
+      "date": "2026-07-30",
+      "time_cest": "15:00",
+      "time_utc": "2026-07-30T13:00:00Z",
+      "asset": "volume-batch-03/c5-pull-quote.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c5-pull-quote.png",
+      "caption": "One line from the first chapter: the habit was never the actual problem. The loop underneath it always was."
+    },
+    {
+      "n": 46,
+      "date": "2026-07-30",
+      "time_cest": "20:00",
+      "time_utc": "2026-07-30T18:00:00Z",
+      "asset": "volume-batch-03/c6-data-callout.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c6-data-callout.png",
+      "caption": "More than half of participants improved significantly using a matched, structured technique, according to published clinical research cited in full inside the guide."
+    },
+    {
+      "n": 47,
+      "date": "2026-07-31",
+      "time_cest": "10:30",
+      "time_utc": "2026-07-31T08:30:00Z",
+      "asset": "volume-batch-03/c7-founder-note2.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c7-founder-note2.png",
+      "caption": "Twenty years of trying different things led to one realization: the missing piece was never more effort. It was understanding why the habit was even there."
+    },
+    {
+      "n": 48,
+      "date": "2026-07-31",
+      "time_cest": "15:00",
+      "time_utc": "2026-07-31T13:00:00Z",
+      "asset": "volume-batch-03/c8-real-support.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c8-real-support.png",
+      "caption": "No streaks to keep, no app notifications. Just a direct answer from an actual person for anyone with a question about the method."
+    },
+    {
+      "n": 49,
+      "date": "2026-07-31",
+      "time_cest": "20:00",
+      "time_utc": "2026-07-31T18:00:00Z",
+      "asset": "volume-batch-03/c9-what-37-buys.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c9-what-37-buys.png",
+      "caption": "One payment, kept for good: a method matched to the actual bite type, with nothing that quietly renews itself every month."
+    },
+    {
+      "n": 50,
+      "date": "2026-08-01",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-01T08:30:00Z",
+      "asset": "volume-batch-03/c10-notes-app.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c10-notes-app.png",
+      "caption": "A note that reads like something scribbled at 1am: bitter polish targets the fingers, but the loop behind the habit lives somewhere else entirely."
+    },
+    {
+      "n": 51,
+      "date": "2026-08-01",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-01T13:00:00Z",
+      "asset": "volume-batch-03/c11-before-after-mental.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c11-before-after-mental.png",
+      "caption": "Before understanding why: fighting the urge with willpower every time. After: interrupting the loop before the urge even fully forms."
+    },
+    {
+      "n": 52,
+      "date": "2026-08-01",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-01T18:00:00Z",
+      "asset": "volume-batch-03/c12-myth-willpower.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c12-myth-willpower.png",
+      "caption": "“Just use more willpower” has never been a real plan for anyone. A technique matched to the trigger is what actually holds up."
+    },
+    {
+      "n": 53,
+      "date": "2026-08-02",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-02T08:30:00Z",
+      "asset": "volume-batch-03/c13-myth-stress.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c13-myth-stress.png",
+      "caption": "Stress usually gets blamed first. Research shows the loop it triggers tends to outlast the stress itself by a long way."
+    },
+    {
+      "n": 54,
+      "date": "2026-08-02",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-02T13:00:00Z",
+      "asset": "volume-batch-03/c14-quiz-spotlight.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c14-quiz-spotlight.png",
+      "caption": "Two questions in, most people already recognize their pattern. The quiz takes about ninety seconds and points straight to the right technique."
+    },
+    {
+      "n": 55,
+      "date": "2026-08-02",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-02T18:00:00Z",
+      "asset": "volume-batch-03/c15-curiosity-alt.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c15-curiosity-alt.png",
+      "caption": "The trigger people blame first is rarely the real one. Chapter three walks through how to actually find it."
+    },
+    {
+      "n": 56,
+      "date": "2026-08-03",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-03T08:30:00Z",
+      "asset": "volume-batch-03/c16-handwritten2.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c16-handwritten2.png",
+      "caption": "A note worth keeping close: the hands were never really the problem. The loop that moves them is, and that's what's actually fixable."
+    },
+    {
+      "n": 57,
+      "date": "2026-08-03",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-03T13:00:00Z",
+      "asset": "volume-batch-03/c17-reach.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c17-reach.png",
+      "caption": "A digital guide built once, available the moment it's needed, wherever that moment happens to be."
+    },
+    {
+      "n": 58,
+      "date": "2026-08-03",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-03T18:00:00Z",
+      "asset": "volume-batch-03/c18-authority-badge.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c18-authority-badge.png",
+      "caption": "Every claim inside the guide traces back to a real, citable source, JAMA included. Not opinion dressed up as advice."
+    },
+    {
+      "n": 59,
+      "date": "2026-08-04",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-04T08:30:00Z",
+      "asset": "volume-batch-03/c19-timeline-weeks.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c19-timeline-weeks.png",
+      "caption": "Four weeks, mapped out honestly: week one is learning, week two is catching the urge faster, week four is when hands finally start to feel like just hands again."
+    },
+    {
+      "n": 60,
+      "date": "2026-08-04",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-04T13:00:00Z",
+      "asset": "volume-batch-03/c20-us-vs-generic.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c20-us-vs-generic.png",
+      "caption": "“Just stop” is the same tip for everyone, which is exactly why it works for almost no one. A technique built around the actual trigger is a different kind of advice entirely."
+    },
+    {
+      "n": 61,
+      "date": "2026-08-04",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-04T18:00:00Z",
+      "asset": "volume-batch-03/c21-whats-included.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-03/c21-whats-included.png",
+      "caption": "Eighty-four pages, plus a founder's letter, printable trackers for all thirty days, and a quiz that finds the bite type in under two minutes."
+    },
+    {
+      "n": 62,
+      "date": "2026-08-05",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-05T08:30:00Z",
+      "asset": "launch-final/ad4-four-types.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/launch-final/ad4-four-types.png",
+      "caption": "A pattern rarely gets solved by advice built for a different pattern. Four types, four matched techniques, and usually one that fits."
+    },
+    {
+      "n": 63,
+      "date": "2026-08-05",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-05T13:00:00Z",
+      "asset": "launch-final/ad5-unhidden.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/launch-final/ad5-unhidden.png",
+      "caption": "The next thirty days can look nothing like the last twenty years, and the difference usually isn't more effort. It's a method built for the actual trigger."
+    },
+    {
+      "n": 64,
+      "date": "2026-08-05",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-05T18:00:00Z",
+      "asset": "static-set-01/unbitten-01-problem-callout.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/static-set-01/unbitten-01-problem-callout.png",
+      "caption": "Years of trying and failing rarely come down to weak willpower. More often the effort was simply aimed at the wrong target the whole time."
+    },
+    {
+      "n": 65,
+      "date": "2026-08-06",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-06T08:30:00Z",
+      "asset": "static-set-01/unbitten-03-us-vs-them.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/static-set-01/unbitten-03-us-vs-them.png",
+      "caption": "Deterrent polish was always solving the wrong equation: it treats the fingers when the actual habit lives somewhere else completely."
+    },
+    {
+      "n": 66,
+      "date": "2026-08-06",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-06T13:00:00Z",
+      "asset": "static-set-02-lofi/unbitten-01-pattern-interrupt.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/static-set-02-lofi/unbitten-01-pattern-interrupt.png",
+      "caption": "An automatic loop doesn't respond to trying harder, because it runs below the level where trying happens at all."
+    },
+    {
+      "n": 67,
+      "date": "2026-08-06",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-06T18:00:00Z",
+      "asset": "static-set-02-lofi/unbitten-04-the-hack.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/static-set-02-lofi/unbitten-04-the-hack.png",
+      "caption": "A fresh manicure buys about a week of not biting, at best. It was never solving the actual problem, just postponing it."
+    },
+    {
+      "n": 68,
+      "date": "2026-08-07",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-07T08:30:00Z",
+      "asset": "series-4-types/type-1-anxious.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/series-4-types/type-1-anxious.png",
+      "caption": "The Anxious type shows up in a specific window: deadlines, hard conversations, the minutes right before something big happens."
+    },
+    {
+      "n": 69,
+      "date": "2026-08-07",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-07T13:00:00Z",
+      "asset": "series-4-types/type-3-bored.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/series-4-types/type-3-bored.png",
+      "caption": "Meetings, scrolling, late-night TV: the Bored type has a specific shape, and the fix isn't willpower, it's redirecting idle hands somewhere else."
+    },
+    {
+      "n": 70,
+      "date": "2026-08-07",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-07T18:00:00Z",
+      "asset": "ABO-test-01/unbitten-ad-4-social-moment.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/ABO-test-01/unbitten-ad-4-social-moment.png",
+      "caption": "A sleeve pulled down without thinking. A photo declined on instinct. Small habits of avoidance that quietly add up over years."
+    },
+    {
+      "n": 71,
+      "date": "2026-08-08",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-08T08:30:00Z",
+      "asset": "volume-batch-01/v1-wired.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-01/v1-wired.png",
+      "caption": "Not a character flaw, a loop in the brain, studied in the same category of behavior as other JAMA-published research. Retraining beats fighting it every time."
+    },
+    {
+      "n": 72,
+      "date": "2026-08-08",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-08T13:00:00Z",
+      "asset": "volume-batch-01/v2-timeline.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-01/v2-timeline.png",
+      "caption": "Nobody wakes up on day one already fixed. The loop gets interrupted a little more each week until, eventually, it's gone."
+    },
+    {
+      "n": 73,
+      "date": "2026-08-08",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-08T18:00:00Z",
+      "asset": "volume-batch-01/v6-science.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-01/v6-science.png",
+      "caption": "Research rarely makes it into the average advice column: shared brain circuits with other repetitive behaviors, and technique matched to trigger consistently outperforming generic willpower tips."
+    },
+    {
+      "n": 74,
+      "date": "2026-08-09",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-09T08:30:00Z",
+      "asset": "volume-batch-01/v9-founder.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-01/v9-founder.png",
+      "caption": "It took twenty years to see the real pattern underneath my own habit: the instinct to fix one small imperfection immediately, not the biting itself."
+    },
+    {
+      "n": 75,
+      "date": "2026-08-09",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-09T13:00:00Z",
+      "asset": "volume-batch-02/b1-how-it-works.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b1-how-it-works.png",
+      "caption": "The whole method in three moves: find the pattern, get the technique built for it, spend 30 structured days retraining the loop."
+    },
+    {
+      "n": 76,
+      "date": "2026-08-09",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-09T18:00:00Z",
+      "asset": "volume-batch-02/b3-listicle-urge.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b3-listicle-urge.png",
+      "caption": "Five completely ordinary moments, one identical pattern hiding behind all of them. Naming the pattern is usually the first real step."
+    },
+    {
+      "n": 77,
+      "date": "2026-08-10",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-10T08:30:00Z",
+      "asset": "volume-batch-02/b5-pattern-interrupt.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b5-pattern-interrupt.png",
+      "caption": "Effort was rarely the missing piece. A structure built to retrain the loop usually is, and that's the difference that actually lasts."
+    },
+    {
+      "n": 78,
+      "date": "2026-08-10",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-10T13:00:00Z",
+      "asset": "volume-batch-02/b6-tracker.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b6-tracker.png",
+      "caption": "Eleven squares filled, nineteen still open, all tracked on a single page. Visible progress is usually the progress that keeps going."
+    },
+    {
+      "n": 79,
+      "date": "2026-08-10",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-10T18:00:00Z",
+      "asset": "volume-batch-02/b8-color-block.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b8-color-block.png",
+      "caption": "The entire method fits in nine words: 30 days, one matched technique, no willpower required. The structure does the carrying."
+    },
+    {
+      "n": 80,
+      "date": "2026-08-11",
+      "time_cest": "10:30",
+      "time_utc": "2026-08-11T08:30:00Z",
+      "asset": "static-set-01/unbitten-02-myth-buster.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/static-set-01/unbitten-02-myth-buster.png",
+      "caption": "The habit lives in the brain, never in the fingers, which explains exactly why bitter polish and sheer willpower keep falling short."
+    },
+    {
+      "n": 81,
+      "date": "2026-08-11",
+      "time_cest": "15:00",
+      "time_utc": "2026-08-11T13:00:00Z",
+      "asset": "static-set-02-lofi/unbitten-03-handwritten.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/static-set-02-lofi/unbitten-03-handwritten.png",
+      "caption": "Sometimes the turning point is not a big moment, just one afternoon of finally understanding why the habit was there to begin with."
+    },
+    {
+      "n": 82,
+      "date": "2026-08-11",
+      "time_cest": "20:00",
+      "time_utc": "2026-08-11T18:00:00Z",
+      "asset": "volume-batch-02/b9-faq-20years.png",
+      "image_url": "https://raw.githubusercontent.com/DiegoFiorellino/getunbitten-social-batch/master/volume-batch-02/b9-faq-20years.png",
+      "caption": "The question that comes up more than any other, answered directly: the years don't disqualify anyone. Loops respond to retraining at any age."
     }
   ]
 }
